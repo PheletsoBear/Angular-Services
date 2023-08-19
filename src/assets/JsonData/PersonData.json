@@ -1,0 +1,12 @@
+
+
+[
+          
+    {"id":1, "name":"Bear", "age": 25, "gender": "male"},
+    {"id":2, "name":"Kamogelo", "age": 23, "gender": "female"},
+    {"id":3, "name":"Pheletso", "age": 24, "gender": "male"},
+    {"id":4, "name":"Precious", "age": 24, "gender": "male"},
+    {"id":5, "name":"Thaduku", "age": 24, "gender": "male"}
+    
+    ]
+
