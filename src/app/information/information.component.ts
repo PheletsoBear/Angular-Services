@@ -11,7 +11,7 @@ export class InformationComponent implements OnInit{
   
 
   
-   Persons : any = [];
+   Persons : any = [];  //stores the JSON Array
 
   constructor( private _GetServices: GetServicesService){}
   
